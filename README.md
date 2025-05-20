@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**Shahlo21/Shahlo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Привет! Я Shahlo
 
-Here are some ideas to get you started:
+🎯 Я развиваюсь как аналитик данных и хочу использовать аналитику для e-commerce, социальных и образовательных задач.  
+💡 Мне особенно интересны проекты, которые приносят реальную пользу обществу. 
+📊 Я работаю с Python, SQL, машинным обучением и визуализацией данных.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Проекты
+
+### 🧠 PathFinder — Персонализированные образовательные маршруты
+> Кластеризация студентов, рекомендации по курсам, анализ вовлечённости.
+
+[🔗 Открыть проект](https://github.com/Shahlo21/PathFinder) — *в разработке*
+
+---
+
+
+---
+
+## 🛠️ Навыки и инструменты
+
+- Python (Pandas, Numpy, Scikit-learn)
+- SQL (PostgreSQL, SQLite)
+- Tableau / Power BI / Plotly
+- Jupyter / Google Colab
+- Git / GitHub
+
+---
+
+## 📫 Контакты
+
+- 📧 shakhlogiyasov@gmail.com 
+- 💼 https://www.linkedin.com/in/shakhlo-g-121961136/
